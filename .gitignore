@@ -15,6 +15,32 @@ dist/
 .vscode/
 .idea/
 
+#图片
+图片格式 (Images)
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.webp
+*.dng
+*.mpo
+
+视频格式 (Videos)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+*.m4v
+*.mpg
+*.mpeg
+*.webm
+*.mts
+*.ts
+
 # 操作系统生成的文件
 .DS_Store
 Thumbs.db
